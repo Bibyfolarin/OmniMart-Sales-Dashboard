@@ -3,13 +3,13 @@
 ![image](https://github.com/user-attachments/assets/d6bb72b1-e672-40be-9ebe-23c5688497fd)
 
 ## Table of Content
-- [Sales].(#sales).
-- [Profits].(#profits).
-- [Quantity Sold].(#quantity-sold).
-- [Profit by Customer Segment].(#profit-by-customer-segment).
-- [Geographical Profit Distribution].(#geographical-profit-distribution).
-- [Top Selling Categories].(#top-selling-categories).
-- [Conclusion].(#conclusion).
+- [Sales](#sales)
+- [Profits](#profits)
+- [Quantity Sold](#quantity-sold)
+- [Profit by Customer Segment](#profit-by-customer-segment)
+- [Geographical Profit Distribution](#geographical-profit-distribution)
+- [Top Selling Categories](#top-selling-categories)
+- [Conclusion](#conclusion)
 
 This Tableau dashboard provides an overview of Omni Mart's 2017 performance, showcasing key metrics such as sales, profits, quantity sold, and top-selling categories. It highlights regional profit distribution and customer segment insights, helping businesses make data-driven decisions to enhance performance and growth strategies.
 
